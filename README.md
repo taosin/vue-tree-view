@@ -1,5 +1,5 @@
 # vue-tree-view
-> vue梳妆视图组件
+> vue树状菜单 组件
 
 ----
 developing...
